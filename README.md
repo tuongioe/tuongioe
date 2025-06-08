@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=100&center=true&vCenter=true&width=500&height=70&lines=Hi+there!%F0%9F%91%8B;I'm+Tường" alt=""/>
+  Trương Quang Tường 22 chủi
 </h1>
 <br>
 
