@@ -1,5 +1,5 @@
 <h1 align="center">
-  Trương Quang Tường 22 tuổi
+  Hi, I'm Tuong. I'm a student of [Ho Chi Minh city University of Information Technology] (https://www.uit.edu.vn/)(UIT).
 </h1>
 <br>
 
