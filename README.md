@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Tuong. I'm a student of [Ho Chi Minh city University of Information Technology] (https://www.uit.edu.vn/)(UIT).
+  Hi, I'm Tuong. I'm a student of [Ho Chi Minh city University of Information Technology] <br> Here is My portfolio website <span style="color: blue">tuong-portfolio.vercel.app</span>.
 </h1>
 <br>
 
